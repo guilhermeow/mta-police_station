@@ -1,4 +1,4 @@
-# -MTA-Police_Station
+# MTA-Police_Station
 
 Police garage modeled on mta
 
@@ -12,3 +12,14 @@ Police garage modeled on mta
    - Place the map in your resources, which is in the Multi Theft Auto folder
 
    
+ - Map images
+
+   -Standard
+ ![image info](/images/old_base_spoiler)
+ ![image info](/images/)
+ ![image info](/images/)
+ ![image info](/images/)
+ ![image info](/images/)
+ ![image info](/images/)
+ ![image info](/images/)
+ ![image info](/images/)
