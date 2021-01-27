@@ -45,3 +45,7 @@ Police garage modeled on mta
    - Second gate
 
  ![image info](/images/join_base_spoiler.png)
+
+ ## Thank for Contributions 👋
+
+ - sickog0d
