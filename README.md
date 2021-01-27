@@ -16,23 +16,23 @@ Police garage modeled on mta
 
    - Before
 
- ![image info](images/old_base_spoiler)
+ ![image info](./images/old_base_spoiler)
 
    - After
 
- ![image info](images/new_base_spoiler)
+ ![image info](./images/new_base_spoiler)
 
    - Input
 
- ![image info](images/port_base_spoiler)
+ ![image info](./images/port_base_spoiler)
 
    - Wall
 
- ![image info](images/details_base_spoiler)
+ ![image info](./images/details_base_spoiler)
 
    - Behind
 
- ![image info](images/back_base_spoiler)
+ ![image info](./images/back_base_spoiler)
 
    - Gate inside
 
